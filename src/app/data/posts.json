@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "next.js13-udemy",
+      "title": "Studying Next.js at Udemy",
+      "content": "The learning material is at Udemy",
+      "createdAt": "2022/07/14"
+    },
+    {
+      "id": "json-server",
+      "title": "Do you know the Json server?",
+      "content": "and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "createdAt": "2024/01/28"
+    },
+    {
+      "id": "revalidate-next-js13",
+      "title": "React Tutorial",
+      "content": "If you’re going to work on the tutorial in your browser, open this code in a new tab: Starter Code. If you’re going to work on the tutorial locally, instead open src/index.js in your project folder (you have already touched this file during the setup). This Starter Code is the base of what we’re building. We’ve provided the CSS styling so that you only need to focus on learning React and programming the tic-tac-toe game. By inspecting the code, you’ll notice that we have three React components:",
+      "createdAt": "2024/01/30"
+    },
+    {
+      "id": "aiueo",
+      "title": "aiueo-page",
+      "content": "This is the new article which is created by blog API",
+      "createdAt": "2024-01-30T09:43:04.092Z"
+    },
+    {
+      "id": "test",
+      "title": "test",
+      "content": "testtest",
+      "createdAt": "2024-01-30T10:02:07.450Z"
+    },
+    {
+      "id": "blog",
+      "title": "blog",
+      "content": "blog",
+      "createdAt": "2024-01-30T10:16:22.911Z"
+    }
+  ]
+}
